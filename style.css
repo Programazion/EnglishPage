@@ -1,0 +1,11 @@
+/* body{
+    display: flexbox;
+    background-image:url(australia.jpg);
+    flex-wrap: wrap;
+    
+} */
+.id{
+    background-color: darkorange;
+    padding: 0;
+    border: double;
+}
